@@ -45,8 +45,14 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/Viveka-Sengalvarayan/EMPD-6.1/blob/main/6.11.jpeg?raw=true)
+
+![image](https://github.com/Viveka-Sengalvarayan/EMPD-6.1/blob/main/6.12.jpeg?raw=true)
+
+![image](https://github.com/Viveka-Sengalvarayan/EMPD-6.1/blob/main/6.13.jpeg?raw=true)
+
+### Name: VIVEKA S
+### Register Number: 212225100059
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
